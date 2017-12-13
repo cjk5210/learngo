@@ -16,7 +16,7 @@ func ifControl()  {
 	}
 }
 
-func switchControl(){
+func switchControl() {
 	x:=100
 	switch  {
 		case x>0:
@@ -106,5 +106,13 @@ func main()  {
 
 	//useDeferStartAFuncBeforeFinish(10,2)
 	//automaticExpanseArray()
-	mapIsContainsAKey()
+	//mapIsContainsAKey()
+
+
+
+
+
+
+
+
 }
